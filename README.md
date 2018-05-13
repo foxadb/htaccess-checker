@@ -1,5 +1,7 @@
 # Htaccess Checker
 
+:warning: For educational purposes only
+
 ## Dependencies
 
 - C++11
